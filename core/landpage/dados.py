@@ -1,0 +1,37 @@
+habilidades = {
+    'habilidade1': {
+        'nome': 'Python',
+        'Nível': 'Avançado',
+    },
+    'habilidades2': {
+        'nome': 'Django',
+        'Nível': 'Intermediário'
+    },
+    'habilidade3':{
+        'nome': 'Flask',
+        'Nível': 'Intermediário'
+    },
+}
+
+projetos = {
+    'projeto1': {
+        'nome': 'Site de Portfólio',
+        'descrição': 'Bem vindo ao meu site pessoal para mostrar meus projetos e habilidades (você está nele).',
+        'tecnologias': ['HTML', 'CSS', 'JavaScript', 'Django'],
+        'link': 'https://meuportfolio.com',
+    },
+
+    'projeto2': {
+        'nome': 'Calculadora: Aluguel vs. Financiamento de Imóvel',
+        'descrição': 'Calculadora para comparar custos de aluguel e financiamento de imóvel.',
+        'tecnologias': ['Python', 'Django', 'SQLite'],
+        'link': 'https://meublog.com',
+    },
+
+    'projeto3':{
+        'nome': 'Em produção',
+        'descrição': 'Uma API RESTful construída com Flask.',
+        'tecnologias': ['Python', 'Flask', 'PostgreSQL'],
+        'link': 'https://minhaapi.com',
+    },
+} 
